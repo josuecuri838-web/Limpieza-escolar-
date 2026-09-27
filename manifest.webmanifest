@@ -1,0 +1,15 @@
+{
+  "name": "Limpieza que hace la diferencia",
+  "short_name": "Limpieza Escolar",
+  "description": "Aplicación educativa sobre limpieza e higiene escolar.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#1676e8",
+  "icons": [
+    {"src":"assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}

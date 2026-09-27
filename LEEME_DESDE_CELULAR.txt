@@ -1,0 +1,14 @@
+LIMPIEZA ESCOLAR — VERSION INSTALABLE DESDE CELULAR
+
+Esta carpeta ya está preparada como PWA (aplicación web instalable).
+Incluye el video de inicio, las pantallas, imágenes, navegación y funcionamiento sin conexión después de la primera carga.
+
+PARA INSTALARLA DESDE UN CELULAR:
+1. Sube TODOS los archivos de esta carpeta a un servicio de alojamiento web que entregue HTTPS.
+2. Abre la dirección de la aplicación desde Chrome en Android.
+3. En Chrome toca ⋮ > Instalar aplicación (o “Agregar a pantalla de inicio”, según la versión).
+4. Confirma la instalación.
+
+IMPORTANTE: no abras index.html directamente desde “Archivos” si quieres instalarla como PWA. Las funciones de instalación y almacenamiento offline requieren que la aplicación se sirva por HTTPS (o localhost).
+
+Si se quiere un APK tradicional, esta misma carpeta puede envolverse con Capacitor/WebView en una computadora o en un entorno Android de compilación.
